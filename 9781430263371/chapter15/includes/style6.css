@@ -1,0 +1,7 @@
+body {
+	background-color: #666;
+}
+#canvas {
+	background-color: #000;
+	-webkit-filter: blur(1px) brightness(2);
+}

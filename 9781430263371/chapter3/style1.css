@@ -1,0 +1,16 @@
+body {
+  background-color: #666;
+}
+#canvas {
+  background-color: #fff;
+  position:absolute;
+  top:50px;
+  left:50px;
+  background-color: transparent;
+}
+#canvas_bg {
+  background-color: #fff;
+  position:absolute;
+  top:50px;
+  left:50px;
+}
