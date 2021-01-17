@@ -1,1 +1,5 @@
-﻿function Phys() {		};Phys.GRAVITATIONAL_CONSTANT = 6.67384E-11;Phys.STANDARD_GRAVITY = 9.80665;Phys.SPEED_OF_LIGHT = 299792458; // in vacuum
+﻿function Phys() {}
+
+Phys.GRAVITATIONAL_CONSTANT = 6.67384e-11;
+Phys.STANDARD_GRAVITY = 9.80665;
+Phys.SPEED_OF_LIGHT = 299792458; // in vacuum
